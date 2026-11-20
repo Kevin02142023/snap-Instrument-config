@@ -1,0 +1,10 @@
+参考/
+__pycache__/
+*.pyc
+.pytest_cache/
+.tmp/
+build/
+dist/
+*.spec
+.qoder/
+*-txt.txt
